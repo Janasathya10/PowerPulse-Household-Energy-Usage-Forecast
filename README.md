@@ -35,7 +35,6 @@ https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+cons
 5. **Model Building**: Linear Regression & Random Forest
 6. **Model Evaluation**: Using RMSE, MAE, R² to assess performance
 7. **Feature Importance Analysis**: Identifying key predictors
-8. **Prediction Visualization**: Comparing actual vs predicted
 
 ## 📈 Key Insights
 - Energy consumption peaks between 6 PM and 10 PM
@@ -46,7 +45,7 @@ https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+cons
 - Energy providers can use similar models for demand forecasting
 
 ## 📂 Files
-- `PowerPulse_Household_Energy_Usage_Project.ipynb`: Jupyter Notebook with full code and analysis
+- `PowerPulse.ipynb`: Jupyter Notebook with full code and analysis
 - `README.md`: Project documentation
 
 ## How to Run
